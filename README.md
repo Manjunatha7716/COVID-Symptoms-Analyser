@@ -1,1 +1,1 @@
-# covid-risk-calculation-website
+# COVID-Symptoms-Analyser
